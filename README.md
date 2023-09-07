@@ -5,10 +5,6 @@
 #### The Owner of Madhav Sales wanted help with creation of a dashboard to track and analyse their online sales across India.
 
 
-<br /> 
-
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/0779a54a-f3e0-4548-8e96-8da8558b7578)
-
 <br />
 
 ### **TABLE OF CONTENTS**
