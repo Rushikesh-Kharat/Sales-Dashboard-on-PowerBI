@@ -22,6 +22,7 @@
 Data is imported into PowerBI desktop application. Some required transformations are made on the data to start with visualisations
 
 <br />
+
 ![image](https://github.com/Rushikesh-Kharat/Sales-Dashboard-on-PowerBI/assets/99657888/6f925d51-d839-4443-ad1c-41b662dbcfd3)
 
 ![image](https://github.com/Rushikesh-Kharat/Sales-Dashboard-on-PowerBI/assets/99657888/f65a68e0-6a33-44df-9f24-163835b8bc09)
