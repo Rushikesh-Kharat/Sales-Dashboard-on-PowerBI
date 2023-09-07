@@ -18,7 +18,8 @@
 
 <br />
 
- <br />
-### **Sales DashBoard**
+<br />
+ 
+### **SALES DASHBOARD**
 
  ![image](https://github.com/Rushikesh-Kharat/Sales-Dashboard-on-PowerBI/assets/99657888/726513bc-1c40-48cd-9e45-aeadfa387643)
