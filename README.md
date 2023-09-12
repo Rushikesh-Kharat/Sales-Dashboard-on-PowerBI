@@ -65,9 +65,6 @@ Data is imported into PowerBI desktop application. Some required transformations
 
 ### **CHALLENGES FACED AND MEASURES TAKEN**
 
-<br />
-
-
 1. **Data Cleaning**
 
 Cleaning the data was an essential step to ensure the accuracy and reliability of the final dataset. Some of the challenges encountered in data cleaning were:
