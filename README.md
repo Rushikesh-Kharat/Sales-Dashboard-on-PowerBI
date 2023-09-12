@@ -19,6 +19,7 @@
 <br />
 
 ### **DATA PREPROCESSING**
+
 Data is imported into PowerBI desktop application. Some required transformations are made on the data to start with visualisations
 
 <br />
@@ -30,6 +31,10 @@ Data is imported into PowerBI desktop application. Some required transformations
 <br />
  
 ### **TOOLS USED**
+
+<br />
+
+
 1. PowerBI Desktop
 2. Power Query for Transformation and Cleaning of data.
 
@@ -50,8 +55,30 @@ Data is imported into PowerBI desktop application. Some required transformations
  
 ### **CONCLUSION**
 
+<br />
+
+
 1. Sale is highest in *Maharashtra State* and lowest in *Delhi* w.r.t. Amount.
 2. Customer named *Harivansh* has spend highest amount on shopping from Madhav Store.
 3. *Cash on delivery* is the most used Payment method
 4. The *Printers* Sub-Category has earned highest Profit.
+
+### **CHALLENGES FACED AND MEASURES TAKEN**
+
+<br />
+
+
+1. **Data Cleaning**
+
+Cleaning the data was an essential step to ensure the accuracy and reliability of the final dataset. Some of the challenges encountered in data cleaning were:
+
+- **Missing Values**: Dealing with missing values and deciding on appropriate imputation methods.
+
+- **Inconsistent Data**: Handling inconsistencies and errors in the data, such as typos and formatting issues.
+
+2. **Visualization Design**: Designing visually appealing and informative dashboards requires careful consideration. Choosing the right charts, graphs, and visuals to represent your sales data effectively can be a challenge.
+
+These challenges were overcome through collaboration, research, and iterative development. Documenting these obstacles and solutions here will help future contributors and developers understand the project's history and complexities.
+
+
 
